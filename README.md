@@ -1,8 +1,3 @@
-
-[![LinkedIn][https://www.linkedin.com/in/lucas-freigenberg-539338134/]][https://www.linkedin.com/in/lucas-freigenberg-539338134/]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -17,6 +12,7 @@
     <br />
 </div>
 
+<img src="./assets\images\screencapture-127-0-0-1-5501-index-html-2022-10-13-18_31_02.png">
 
 
 <!-- TABLE OF CONTENTS -->
@@ -39,9 +35,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-On the job ticket challenge 1 of the University of Utah Coding Bootcamp.  Changing the code without changing the apperence or funcitonality of the website. I improved the semantic HTML elements and logical struture and styling of the code while improving the accessible alt attributes. The newly alterted code should now meet accessibility standards so that the website is optimized for search engines.`github_mountiandiver`, `Horiseon-1`, `Horiseon_Challenge_1`
+On the job ticket challenge 1 of the University of Utah Coding Bootcamp.  Changing the code without changing the apperence or funcitonality of the website. I improved the semantic HTML elements and logical struture and styling of the code while improving the accessible alt attributes. The newly alterted code should now meet accessibility standards so that the website is optimized for search engines.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -58,7 +52,10 @@ On the job ticket challenge 1 of the University of Utah Coding Bootcamp.  Changi
 <!-- CONTACT -->
 ## Contact
 
-Lucas Freigenberg - [Email](lsfreigenberg@outlook.com),
+Lucas Freigenberg -
+
+[Email](lsfreigenberg@outlook.com)
+
 [GitHub](https://github.com/mountaindriver)
 
 
